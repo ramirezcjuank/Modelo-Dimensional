@@ -1,0 +1,1 @@
+reto_sql.duckdb filter=lfs diff=lfs merge=lfs -text
